@@ -36,8 +36,4 @@ Web element scraping (attributes, text)
 
 Automated navigation and interaction
 
-🧪 Key Files & Sample Scripts:
-Script	                               Description
-open_ByID.py	         Opens a webpage and automates input using element ID
-locate_ByName.py	     Locates form elements by name and automates interaction
-locate_ByClassName.py	 Uses class names to extract and manipulate elements on the page
+
